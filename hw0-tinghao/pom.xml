@@ -4,8 +4,8 @@
   <artifactId>hw0-tinghao</artifactId>
   <version>0.0.1</version>
   <scm>
- 	<connection>scm:git:git@github.com:GITHUB_ID/hw0-tinghaoh.git</connection>
-	<developerConnection>scm:git:git@github.com:GITHUB_ID/hw0-tinghaoh.git</developerConnection>
+ 	<connection>scm:git:git@github.com:windx0303/hw0-tinghaoh.git</connection>
+	<developerConnection>scm:git:git@github.com:windx0303/hw0-tinghaoh.git</developerConnection>
   </scm>
   <repositories><repository>
     <id>deployment</id>
